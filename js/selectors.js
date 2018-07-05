@@ -3,4 +3,8 @@ function paragraphSelector(){
   
 }
 
-function lastI
+function lastImageSelector(){
+  
+}
+
+function 
