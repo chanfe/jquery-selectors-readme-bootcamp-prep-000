@@ -7,7 +7,7 @@ function lastImageSelector(){
   
 }
 
-function (){
+function lastImageSelector(){
   
 }
 
