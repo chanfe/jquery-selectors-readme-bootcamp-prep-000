@@ -7,7 +7,7 @@ function lastImageSelector(){
   
 }
 
-function lastImageSelector(){
+function lastImageSelectorninjaBabySelector(){
   
 }
 
